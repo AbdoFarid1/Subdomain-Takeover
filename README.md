@@ -13,7 +13,7 @@
  
    ![image](https://github.com/AbdoFarid1/Subdomain-Takeover/assets/128148536/13444480-7100-4c5b-8fa3-c3625a263b9d)
    
-* Then i choose the bucket that i created and uploaded the html file.
+* Then I choose the bucket that I created and uploaded the html file.
 * If you visited download.telenor.com you would find the message the you wrote in the html file , This of course is not the issue anymore as it is fixed.
 
 * Tool link: https://github.com/nahamsec/HostileSubBruteforcer
