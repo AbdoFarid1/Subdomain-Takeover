@@ -19,6 +19,7 @@
 
   ![Screen](https://github.com/AbdoFarid1/Subdomain-Takeover/assets/128148536/b202feb2-0d46-4c6c-ae6e-f85a425dcd90)
 
+* And by that the exploitation is done all what is left is to report it.
 * Tool link: https://github.com/nahamsec/HostileSubBruteforcer
 
 
