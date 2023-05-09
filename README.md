@@ -10,13 +10,6 @@
  ![Screenshot 2023-05-10 013654](https://github.com/AbdoFarid1/Subdomain-Takeover/assets/128148536/f4315575-5ec5-4446-9868-fdd7c9ed6d1c)
 * So I took the BucketName and I Went to Amazon S3 Storage services and I created a new bucket with the same BucketName and the same Region and made it public
 * Then I created a simple html file for the poc.
-<!DOCTYPEE html>
-<html lang="en">
-<head>
-<title>takeover by abdelrahman farid</title>
-<body>
-<h1>Takeover by abdelrahman farid</h1>
-</body>
-</html>
+
 
 
