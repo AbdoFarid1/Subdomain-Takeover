@@ -16,6 +16,7 @@
 * Then I choose the bucket that I created and uploaded the html file.
 * If you visited download.telenor.com you would find the poc message , This of course is not the issue anymore as it is fixed.
 * The poc message looked like this:
+* 
 ![Screen](https://github.com/AbdoFarid1/Subdomain-Takeover/assets/128148536/b202feb2-0d46-4c6c-ae6e-f85a425dcd90)
 
 * Tool link: https://github.com/nahamsec/HostileSubBruteforcer
